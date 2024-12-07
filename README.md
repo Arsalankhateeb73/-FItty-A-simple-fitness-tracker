@@ -45,3 +45,9 @@ Fitty is developed and maintained by [Khateeb Mohammad Arsalan Wajed Akhtar](htt
 
 For support or questions, please contact [Your Email](mailto:arsalan9850@gmail.com).
 
+![Login_Page](https://github.com/user-attachments/assets/2b8214e0-975a-4fee-bafa-5dd4e2070ca6)
+![Homepage](https://github.com/user-attachments/assets/155a1a4b-550d-44bd-9b60-3ec5b7e3df1d)
+![Weight-Gain_Page](https://github.com/user-attachments/assets/9272da13-cffa-40d5-b678-7c431197b2f5)
+![Weight-Loss_Page](https://github.com/user-attachments/assets/6576ee4a-7c25-46cb-8906-834db11ef88f)
+
+

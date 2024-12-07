@@ -1,0 +1,59 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: #219ebc;
+    color: white;
+    text-align: center;
+    padding: 1.5em 0;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+section {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+section h2 {
+    text-align: center;
+    color: #333;
+    border-bottom: 2px solid #008080;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.exercise {
+    margin-bottom: 20px;
+}
+
+.exercise h3 {
+    color: #008080;
+    margin-bottom: 5px;
+}
+
+.exercise p {
+    margin: 0;
+    color: #555;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #008080;
+    color: white;
+    position: relative;
+    width: 100%;
+    bottom: 0;
+}
